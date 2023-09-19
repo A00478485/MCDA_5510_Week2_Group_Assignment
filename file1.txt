@@ -1,0 +1,4 @@
+#A00473252
+Public int subtraction (int a, int b) {
+return a-b;
+}
