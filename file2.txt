@@ -4,3 +4,10 @@
 
 #"The answer for 6/2: "
 print(6/2)
+
+
+#A00473252
+Public int mod (int a, int b) {
+return a%b;
+}
+
