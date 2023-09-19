@@ -1,7 +1,7 @@
 #Max() function
 #Papa Kwame, A00477519
 
-import java; 
+import java.util.math;
 
 public static double power_func(double a, double b)
 {
