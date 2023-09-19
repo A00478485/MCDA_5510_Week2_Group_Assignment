@@ -1,0 +1,9 @@
+#Max() function
+#Papa Kwame, A00477519
+
+import java; 
+
+public static double power_func(double a, double b)
+{
+    return math.max(a,b);
+}
