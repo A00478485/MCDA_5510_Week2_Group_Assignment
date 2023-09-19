@@ -1,0 +1,9 @@
+import java.util.math;
+
+
+#Written by A00478485 - Bhavy Doshi
+
+public static double find_max(double a, double b)
+{
+    return math.max(a,b);
+}

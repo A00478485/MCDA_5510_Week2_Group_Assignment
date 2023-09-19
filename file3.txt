@@ -1,0 +1,8 @@
+import java.util.math;
+
+#Written by A00478485 - Bhavy Doshi
+
+public static double power_func(double a, double b)
+{
+    return math.pow(a,b);
+}

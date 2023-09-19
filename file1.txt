@@ -1,0 +1,6 @@
+#Written by A00478485 - Bhavy Doshi
+
+public static double multiplication(double a, double b)
+{
+    return a*b;
+}
