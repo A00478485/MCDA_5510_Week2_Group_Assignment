@@ -1,5 +1,5 @@
 #A00473252
 
-Public int addition (int a, int b) {
+Public int average, int b) {
 return Math.avg(a,b);
 }
