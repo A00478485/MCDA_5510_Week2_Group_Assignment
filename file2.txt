@@ -1,0 +1,6 @@
+#division
+#dividing an integer by an integer
+#Papa Kwame, A00477519
+
+#"The answer for 6/2: "
+print(6/2)
