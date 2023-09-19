@@ -1,3 +1,5 @@
+import java.util.math;
+
 #Max() function
 #Papa Kwame, A00477519
 
@@ -15,3 +17,10 @@ Public int average, int b) {
 return Math.avg(a,b);
 }
 
+#Written by A00478485 - Bhavy Doshi
+
+public static double power_func(double a, double b)
+{
+    return math.pow(a,b);
+}
+>>>>>>> feature/A00478485
